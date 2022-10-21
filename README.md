@@ -6,7 +6,7 @@
   PowerShell
   ![](https://geps.dev/progress/50)
   
-  Python (Basic's)
+  Python (Basics)
   ![](https://geps.dev/progress/100)
   
   Python (Intergrated Modules + Discord Module)
