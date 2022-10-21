@@ -1,5 +1,5 @@
 # Bash-CheatSheet
-just a small bash cheatsheet with bash basics
+#### just a small bash cheatsheet with bash basics
 | Command | Function |
 | --- | --- |
 | ls | list all files in current directory |
