@@ -26,7 +26,7 @@
 | tail -f file | output contents of file as it grows |
 | date | show current date/time |
 | uptime | show uptime |
-| whoami | who you`re logged in as |
+| whoami | who you're logged in as |
 | w | display who is online |
 | cat /proc/cpuinfo | display cpu info |
 | cat /proc/meminfo | memory info |
